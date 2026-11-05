@@ -1,7 +1,7 @@
-프로젝트 명 : Introduce Band
-제작 기간 : 2024.09.08 ~ 2024.09.12
-제작 언어 : HTML
-개발 환경 : Visual Studio Code
+프로젝트 명 : Introduce Band <br />
+제작 기간 : 2024.09.08 ~ 2024.09.12 <br />
+제작 언어 : HTML <br />
+개발 환경 : Visual Studio Code <br />
 
 페이지 설명
 1. 화면 비율에 따른 자동 크기 변화(모바일 화면 고려, 화면 변화)
